@@ -10,6 +10,6 @@ I create the University that I dream to go to by world-building in the web space
 ## Live Site
 
 Live Site link is
-[https://chelsea-thompto-teaching-examples.github.io/threejs-nonode-boilerplate/](https://chelsea-thompto-teaching-examples.github.io/threejs-nonode-boilerplate/)
+[https://areacode831.github.io/dream_uni/](https://areacode831.github.io/dream_uni/)
 
 
