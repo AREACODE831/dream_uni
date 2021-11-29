@@ -1,9 +1,10 @@
 /* Style sheet from index.html and gtlf.html */
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Zen+Kurenaido&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
 html,
 body {
-  font-family: "Source Code Pro", monospace;
+  /* font-family: "Source Code Pro", monospace; */
+  font-family: 'Zen Kurenaido', sans-serif;
   margin: auto;
   display: block;
   padding: 20px;
