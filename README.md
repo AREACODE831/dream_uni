@@ -14,5 +14,5 @@ Live Site link is
 
 
 ## Credit
-Professor Chelsea Thompto's code for importing Three.js and environment: https://github.com/Chelsea-Thompto-Teaching-Examples/threejs-nonode-boilerplate
+Professor Chelsea Thompto's code for importing Three.js, environment and base: https://github.com/Chelsea-Thompto-Teaching-Examples/threejs-nonode-boilerplate
 
