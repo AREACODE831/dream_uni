@@ -1,11 +1,15 @@
 # Final_Project_Soovin Choi_ART109
 
-Dream Uni
-
+Crush Landing
 
 ## Overview
 
-I create the University that I dream to go to by world-building in the web space using Three.js.
+Unidentified figure has landed on the planet.
+
+Who is it?
+
+It? She? He? They?
+
 
 ## Live Site
 
@@ -13,3 +17,9 @@ Live Site link is
 [https://areacode831.github.io/dream_uni/](https://areacode831.github.io/dream_uni/)
 
 
+## Credit
+Professor Chelsea Thompto's code for importing Three.js, environment and base: https://github.com/Chelsea-Thompto-Teaching-Examples/threejs-nonode-boilerplate
+
+button generator:https://www.bestcssbuttongenerator.com/
+
+water shader: https://github.com/mrdoob/three.js/blob/master/examples/webgl_shaders_ocean.html
