@@ -1,13 +1,10 @@
 /* Style sheet from index.html and gtlf.html */
-@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Zen+Kurenaido&display=swap');
-
 html,
 body {
   /* font-family: "Source Code Pro", monospace; */
   font-family: 'Zen Kurenaido', sans-serif;
   margin: auto;
   display: block;
-  padding: 20px;
   background-color:#0C2E59;
   /* background: url(
 data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAMklEQVQYV2N8dvrxfwYk8Oz0EwZGZEGQgJSpDEIQJgDSBFYJE4CrPDPt+H+QFhgASQAAS1MjDyLYWWEAAAAASUVORK5CYII=
@@ -20,9 +17,7 @@ canvas {
   width: 100%;
   height: 100%;
   margin: auto;
-  max-width: 800px;
-  border: 3px solid #6E2E99;
-  border-radius: 3px;
+  max-width: 100%;
 }
 
 #space2 {
