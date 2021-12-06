@@ -21,3 +21,5 @@ Live Site link is
 Professor Chelsea Thompto's code for importing Three.js, environment and base: https://github.com/Chelsea-Thompto-Teaching-Examples/threejs-nonode-boilerplate
 
 button generator:https://www.bestcssbuttongenerator.com/
+
+water shader: https://github.com/mrdoob/three.js/blob/master/examples/webgl_shaders_ocean.html
