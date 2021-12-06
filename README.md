@@ -13,3 +13,6 @@ Live Site link is
 [https://areacode831.github.io/dream_uni/](https://areacode831.github.io/dream_uni/)
 
 
+## Credit
+Professor Chelsea Thompto's code for importing Three.js and environment: https://github.com/Chelsea-Thompto-Teaching-Examples/threejs-nonode-boilerplate
+
